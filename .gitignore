@@ -1,0 +1,12 @@
+# SublimeText project files
+*.sublime-workspace
+/nbproject/
+/App/Runtime/
+/Uploads/image/
+/Uploads/file/
+/Uploads/flash/
+/Uploads/media/
+Manual
+/.project
+/.settings
+/.buildpath
